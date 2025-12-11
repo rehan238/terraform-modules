@@ -32,7 +32,7 @@
    terraform init                       
  ### To format the code
    terraform fmt                     
-### To vdalidate the syntax 
+### To validate the syntax 
    terraform validate                  
 ### To check the IAM plan 
    terraform plan                      
