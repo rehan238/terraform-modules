@@ -49,7 +49,7 @@ To IAM apply
 
    terraform fmt                       => To format the code
 
-   terraform vaidate                   => to vdalidate the syntax 
+   terraform validate                   => to validate the syntax 
    
    terraform plan                => To check the Ec2 plan
    
@@ -64,7 +64,7 @@ To IAM apply
 
     terraform fmt                       => To format the code
 
-   terraform vaidate                   => to vdalidate the syntax 
+   terraform validate                   => to validate the syntax 
    
    
    terraform plan                => To check the vpc plan
@@ -81,7 +81,7 @@ To IAM apply
 
   terraform fmt                       => To format the code
 
-   terraform vaidate                   => to vdalidate the syntax 
+   terraform validate                   => to validate the syntax 
    
    
    terraform plan                => To check the s3 plan
